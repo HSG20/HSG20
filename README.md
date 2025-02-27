@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello there, I am Hugo 👋
+- 🌱 Studying a bachelor in Software Engineering
+- 🏠 Living in Denmark (Sønderborg)
+- 🐣 Born and raised in Spain
 <!--
 **HSG20/HSG20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
